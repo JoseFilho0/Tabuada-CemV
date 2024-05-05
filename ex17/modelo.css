@@ -1,0 +1,32 @@
+body {
+    background-color: #7373f5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    text-align: center;
+    color: #fff;
+}
+
+section {
+    width: 400px;
+    background-color: #fff;
+    padding: 20px;
+    margin: auto;
+    border-radius: 15px;
+    font-size: 20px;
+    box-shadow: 0px 0px 10px #000;
+    margin-top: 20px;
+}
+
+section input {
+    outline: 0;
+    border: none;
+    border: 1px solid #bbb;
+    border-radius: 5px;
+}
+
+footer {
+    color: #fff;
+    text-align: center;
+}
